@@ -73,6 +73,32 @@ I want to inform users of this Service that these third parties have access to y
 ## Security
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
+## Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)
+If you are from the European Economic Area (EEA), SanxyNet application legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+SanxyNet application may process your Personal Data because:
+We need to perform a contract with you
+You have given us permission to do so
+The processing is in our legitimate interests and it's not overridden by your rights
+For payment processing purposes
+To comply with the law
+
+## Retention of Data
+SanxyNet application will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+SanxyNet application will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+## Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. SanxyNet application aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+In certain circumstances, you have the following data protection rights:
+The right to access, update or to delete the information we have on you. Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+The right of rectification. You have the right to have your information rectified if that information is inaccurate or incomplete.
+The right to object. You have the right to object to our processing of your Personal Data.
+The right of restriction. You have the right to request that we restrict the processing of your personal information.
+The right to data portability. You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+The right to withdraw consent. You also have the right to withdraw your consent at any time where SanxyNet application relied on your consent to process your personal information.
+Please note that we may ask you to verify your identity before responding to such requests.
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
 ## Links to Other Sites
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
